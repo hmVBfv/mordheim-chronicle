@@ -1,10 +1,10 @@
 ---
 ref: "battle-1"
-title: "Nebel über Quayside"
+title: "Das Urteil im Nebel"
 chapter: "Erste Schlacht"
 ic_date: "Frühes Jahr 2000 IC"
 place: "Quayside, Mordheim"
-victor: "Rangvald's Reavers"
+victor: "Das Feld blieb Rangvald's Reavers — die Karawane wich mit ihren Waren in den Nebel, die Kinder des Sotek verschwanden flussabwärts."
 date: 2026-06-14
 ---
 
@@ -40,8 +40,14 @@ Die Kinder des Sotek, geschlagen und dezimiert, zogen sich zurück in den Nebel,
 
 ### Nachwirkungen
 
-Erst als der Nebel sich lichtete und jede Bande ihre Gefallenen barg, um sie zu versorgen, zeigte sich der wahre Preis dieses ersten Zusammentreffens. Nicht jeder, der zu Boden gegangen war, sollte wieder erwachen. **Sir Dieter von Wurtzen** von der Silbernen Karawane erlag seinen Verletzungen; unter den Kindern des Sotek kehrten ein Skink und ein Sauruskrieger nicht mehr ins Leben zurück — die ersten Namen, die die Stadt der Verdammten für sich forderte.
+Erst als der Nebel sich lichtete und jede Bande ihre Gefallenen barg, um sie zu versorgen, zeigte sich der wahre Preis dieses ersten Zusammentreffens. Nicht jeder, der zu Boden gegangen war, sollte wieder erwachen.
 
-Doch aus Blut wächst auch Stärke. **Sir Honnung von Hoiser**, der unter Ulfriks Klinge zu Boden gezwungen worden war, kehrte abgehärtet zurück — von nun an kennt er keine Furcht mehr. Die Chaosgötter, zufrieden mit den Taten ihres Dieners, beschenkten ihren Rudelführer **Styrkarr Skysplitter** mit neuer körperlicher Stärke. **Wonton** hingegen, den Ottilie im Nebel niedergerungen hatte, überlebte zwar — doch die Wunde, die er aus jenem Sturz davontrug, wollte nie ganz verheilen. An manchem Morgen wird sie ihn fortan gar nicht erst ins Feld ziehen lassen.
+**Sir Dieter von Wurtzen** hatte sich der Karawane angeschlossen, wie sich Ritter ohne Land ihr eben anschließen: für Sold, für Verpflegung und für die Aussicht, in der Fremde etwas zurückzugewinnen, das daheim verspielt worden war. Die Hunde hatten ihn erwischt, ehe er auch nur den Schild hochbekam, und was die Reavers hinterließen, war kein Gegner mehr, den man ehrenvoll bestattet — Robba ließ ihn am Ufer verscharren, ohne Wappen und ohne Priester, weil die Luft von Quayside jeden Aufschub mit Krankheit bestraft. Unter den Kindern des Sotek kehrten ein Skink und ein Sauruskrieger nicht mehr ins Leben zurück; ihre Brüder trugen sie fort, ohne ein Wort, wie sie es mit allem halten, was den Alten Plänen zum Opfer fällt. Vier Namen also forderte die Stadt der Verdammten an diesem ersten Tag, und drei davon wird niemand je wieder aussprechen.
+
+Doch aus Blut wächst auch anderes. **Sir Honnung von Hoiser** war unter der Klinge Ulfriks in die Knie gegangen — unter der Klinge eines Mannes, der seinen Beinamen von dem trägt, was er den Lebenden antut. Was in den Augenblicken danach geschah, hat der Ritter nie geschildert, nicht Robba und nicht seinen Waffenbrüdern: dass er auf dem nassen Pflaster lag, den Schatten des Chaoschampions über sich, und auf den Streich wartete, der ihn beenden würde. Er kam nicht. Ob der Nebel den Champion fortzog, ob ein Ruf ihn abriss, ob es bloße Willkür war — Honnung hat es nie erfahren. Man lehrt einen Ritter im Reikland vieles über den ehrenvollen Tod und kein einziges Wort über die Minuten danach, wenn er ausgeblieben ist. Wer ihn seither in ein Gefecht gehen sah, bemerkte, dass sein Blick nicht mehr suchte, wo der Rückweg lag. Er hatte den Augenblick seines eigenen Todes bereits hinter sich; was ihm nun entgegentritt, kann ihm nichts anbieten als eben diesen Augenblick noch einmal.
+
+Auch die Mächte, denen **Styrkarr Skysplitter** dient, hatten das dreifache Urteil im Nebel wohl vernommen. Tchar belohnt weder mit Gold noch mit Land, sondern indem er den Diener selbst umformt. In den Wochen nach Quayside wurde der Rudelführer breiter in den Schultern, die Stränge an seinen Armen traten hervor wie Taue, und er hob ohne Mühe, woran er zuvor gezerrt hätte. Seine Männer sahen es mit jener Mischung aus Ehrfurcht und Unbehagen, die dem Seher ohnehin entgegenschlägt — denn wer sich vom Wandler der Pfade beschenken lässt, gibt ein Stück Verfügung über den eigenen Leib dahin, und keiner weiß, welche Gestalt die nächste Gabe annehmen wird.
+
+**Wonton** hingegen, den Ottilie im Nebel niedergerungen hatte, erwachte wieder — doch die Wunde aus jenem Sturz schloss sich nie richtig. Die Kinder des Sotek stammen aus der schwülen Wärme Lustrias, und was dort binnen weniger Tage vernarbt wäre, bleibt in der feuchten Kälte Ostermarks offen und steif. An manchem Morgen, wenn der Nebel vom Stir heraufkriecht, trägt ihn das Bein nicht. Dann bleibt der Great Crest im Lager zurück und sieht seinen Brüdern nach, die ohne ihn ausziehen.
 
 Drei Warbands. Ein Nebel. Ein erster Sieger. Die Stadt der Verdammten hatte gerade erst begonnen, ihren Tribut zu fordern.

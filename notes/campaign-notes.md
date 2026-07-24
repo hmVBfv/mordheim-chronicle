@@ -10,6 +10,19 @@ a TTS import — this file is the source to work from, not the chapters.
 Chapter files reference these entries by the same keys used in their front
 matter: `prolog`, `battle-1`, `battle-2`, `battle-3`.
 
+| ref | DE title | EN title |
+|---|---|---|
+| `prolog` | Auf Flügeln aus Feuer | On Wings of Fire |
+| `battle-1` | Das Urteil im Nebel | The Verdict in the Fog |
+| `battle-2` | Die verbrannten Seiten | The Burned Pages |
+| `battle-3` | Was der Juwelier bezahlte | What the Jeweller Paid |
+
+**Title convention:** chapter titles are evocative, not merely descriptive, and
+each one is echoed by a phrase inside its own chapter — "auf Flügeln aus Feuer"
+from the prophecy, Styrkarr's verdict in the fog, the burned parchment of the
+library, the jeweller's payment and what it really cost. Avoid titles that are
+just the location.
+
 ---
 
 ## 1. Canon — names and spellings
@@ -330,6 +343,26 @@ Caravan's withdrawal becomes a rout.
   Wyrdstone, Old Ones, Slann, Skink, Saurus.
 - English must read as native English — no calques, no German sentence shapes.
 - Weave origins and background in only where they fit; never force them.
+- **Every gain needs a reason.** Rob supplies advances as plain mechanics —
+  "model X permanently gained +1 Attack", "gained Fearless", "promoted to Hero".
+  Never report the mechanic as such. Give it a cause anchored in the battle just
+  described, tied where possible to the character's origin, training or nature,
+  and let the effect appear as a consequence at the end rather than as an
+  announcement at the start. Prefer going long over going short here. If the
+  session notes offer no usable trigger, invent one that fits the opponent, the
+  place and the character — and ask when an important development has no anchor
+  at all.
+  Worked examples now in the chapters: Sir Honnung's fearlessness (he lay under
+  Ulfrik's shadow waiting for a killing blow that never fell, and has never
+  spoken of it); Styrkarr's Strength (Tchar reshapes the servant rather than
+  paying him); Wonton's Old Battle Wound (Lustrian physiology against Ostermark
+  damp); Marcus's promotion (Tilean pavise drill finally tested); Julius Broun's
+  Weapon Skill (a scholar who learned what his art is worth at dagger range);
+  the Skinks' Initiative (a night of reading wolf feints).
+- **The outcome line is a sentence, not a label.** The `victor:` front-matter
+  field renders under "Ausgang" / "Outcome" at the foot of a chapter. It must say
+  what actually became of each side — who held the field, who withdrew and with
+  what — never just a warband name.
 
 ---
 

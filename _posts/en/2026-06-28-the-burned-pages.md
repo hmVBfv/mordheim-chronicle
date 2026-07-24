@@ -1,10 +1,10 @@
 ---
 ref: "battle-2"
-title: "The Great Library"
+title: "The Burned Pages"
 chapter: "Second Battle"
 ic_date: "Spring 2000 IC"
 place: "The Great Library, Mordheim"
-victor: "Stalemate — all three warbands withdrew"
+victor: "No one held the library: all three warbands withdrew, none of them with what they had come for."
 date: 2026-06-28
 ---
 
@@ -42,8 +42,10 @@ In the Great Library the old familiar silence returned — that particular silen
 
 ### Aftermath
 
-The fight for the library exacted its toll off the field as well. **Styrkarr Skysplitter** carried away a deep wound to the arm, dealt by the Skink who had wrestled him down — an injury that will keep him to the sidelines for the next battle, unable to call upon his Chaos god in person.
+The fight for the library exacted its toll off the field as well. The Skink's claws had opened **Styrkarr Skysplitter**'s right forearm down to the sinew — and that arm, of all of them, is the instrument of his office. A seer of Tchar does not call with his voice alone; he draws what he accuses upon the air with an outstretched hand, and where the fingers will not follow, neither does the verdict. For weeks the arm lay splinted in furs, swollen and hot, and when Styrkarr tried to raise it, it shook like an old man's. His men did not say it aloud, but every one of them thought it: that a nameless creature had brought down one marked by the Great Eagle and taken him out of the field for a month. When the Reavers next set out, the Packmaster will stay behind in camp, and they will march without the voice of their god.
 
-**Sir Honnung von Hoiser**, for his part, proved that not every rashness happens in combat: searching for wyrdstone after the battle, he climbed down into one of the library's wells, lost his footing, and swallowed the contaminated water the comet had carried into every crevice of the city. He too will have to sit out the next battle.
+**Sir Honnung von Hoiser**, for his part, proved that not every rashness happens in combat. A man who no longer knows fear no longer weighs the odds either, and so after the battle he lowered himself into one of the library's well-shafts, convinced he had seen a green glimmer down in the dark. The stone was slick with the soot of years; he lost his grip, struck the water and went under. What he swallowed was the water the comet has poisoned — it tastes of metal and burns in the throat for days afterwards. They hauled him out coughing and empty-handed. The fever that followed put the man whom nothing on the battlefield could stop flat on his back for weeks: he will not ride out to the next battle, and Robba is said to have remarked that this is exactly the kind of loss for which there is nobody to blame.
 
-Yet not all that came out of that day was loss. The marksman **Marcus**, who together with Magister Julius Broun had brought down the Chaos warrior on the first floor, showed in that moment more nerve and skill than anyone looks for in a common mercenary — a steady hand amid a building sinking into chaos around him. His comrades have spoken of him differently ever since. What happened in the library could no longer be hidden: in the eyes of his comrades, the mercenary Marcus had become a hero. They see him with different eyes now — no longer as one of many with a crossbow, but as one who has fairly earned his place among the names of this caravan.
+Yet not all that came out of that day was loss. In Tilea, where **Marcus** learned his trade, they drill crossbowmen not for speed but for composure: kneel behind the pavise, wind, breathe, and let the bolt go only when it is already true — and do it in the middle of a battlefield that is screaming a man to pieces. He had practised it all his life and never once found out whether it would hold. In the library he found out. While friends went down below him, while ash and burning parchment turned the air black and no one could say which direction the next attack would come from, he knelt among the toppled shelves, counted off the beat of his own heart, and waited until the hawk on the gallery stood still. The bolt struck; the Chaos warrior fell. It was not the hit that mattered — Marcus had made plenty of hits — but that in all that din he had got to the shot at all.
+
+His comrades noticed. Mercenaries do not measure one another by virtue but by who still does what he is paid for at the worst possible moment, and by that reckoning Marcus stood higher that day than most. After the library it could no longer be overlooked: in the eyes of the caravan the sell-sword Marcus had become a man with a name. They no longer place him where numbers are wanted, but where everything turns on a single steady shot.

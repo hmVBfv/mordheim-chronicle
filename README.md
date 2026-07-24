@@ -23,11 +23,11 @@ translation of the page you are on.
    git init
    git add .
    git commit -m "Chronicle: bilingual scaffold + prologue and first three battles"
-   git branch -M master
+   git branch -M main
    git remote add origin https://github.com/<your-user>/mordheim-chronicle.git
-   git push -u origin master
+   git push -u origin main
    ```
-3. GitHub → **Settings → Pages → Deploy from a branch**, branch `master`, folder
+3. GitHub → **Settings → Pages → Deploy from a branch**, branch `main`, folder
    `/ (root)`. Save.
 4. Wait ~1 minute, open the live URL.
 

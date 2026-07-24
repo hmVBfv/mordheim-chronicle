@@ -1,6 +1,6 @@
 ---
 ref: "prolog"
-title: "The Fall of the Comet"
+title: "On Wings of Fire"
 chapter: "Prologue"
 ic_date: "1999–2000 IC"
 date: 2026-06-01

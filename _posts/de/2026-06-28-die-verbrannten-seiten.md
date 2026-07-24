@@ -1,10 +1,10 @@
 ---
 ref: "battle-2"
-title: "Die Große Bibliothek"
+title: "Die verbrannten Seiten"
 chapter: "Zweite Schlacht"
 ic_date: "Frühjahr 2000 IC"
 place: "Große Bibliothek, Mordheim"
-victor: "Unentschieden — alle drei Warbands zogen sich zurück"
+victor: "Niemand behielt die Bibliothek: Alle drei Warbands zogen sich zurück, keiner mit dem, wofür er gekommen war."
 date: 2026-06-28
 ---
 
@@ -42,8 +42,10 @@ In der Großen Bibliothek kehrte die altvertraute Stille zurück — jene besond
 
 ### Nachwirkungen
 
-Der Kampf um die Bibliothek forderte seinen Tribut, auch abseits des Schlachtfelds. **Styrkarr Skysplitter** trug eine tiefe Wunde am Arm davon, zugefügt vom Skink, der ihn zu Boden gerungen hatte — eine Verletzung, die ihn zwingt, die nächste Schlacht von den Seitenlinien mitzuerleben, statt seinen Chaosgott persönlich anzurufen.
+Der Kampf um die Bibliothek forderte seinen Tribut, auch abseits des Schlachtfelds. Die Klauen des Skinks hatten **Styrkarr Skysplitter** den rechten Unterarm bis auf die Sehne aufgerissen — und ausgerechnet dieser Arm ist das Werkzeug seines Amtes. Ein Seher Tchars ruft nicht mit der Stimme allein; er zeichnet, was er anklagt, mit ausgestreckter Hand in die Luft, und wo die Finger nicht folgen, folgt auch das Urteil nicht. Wochenlang lag der Arm in Fellen geschient, geschwollen und heiß, und wenn Styrkarr ihn zu heben versuchte, zitterte er wie der eines Greises. Seine Männer sprachen es nicht aus, aber sie dachten es alle: dass ein namenloses Geschöpf einen Gezeichneten des Großen Adlers gestellt und für Wochen aus dem Feld genommen hatte. Beim nächsten Auszug wird der Rudelführer im Lager zurückbleiben, und die Reavers werden ohne die Stimme ihres Gottes marschieren müssen.
 
-**Sir Honnung von Hoiser** wiederum bewies, dass nicht jede Tollkühnheit im Kampf geschieht: Auf der Suche nach Wyrdstone stieg er nach der Schlacht in einen der Brunnen der Bibliothek hinab, verlor dabei den Halt und schluckte das kontaminierte Wasser, das der Komet in jede Ritze der Stadt getragen hatte. Auch er wird die nächste Schlacht auskurieren müssen.
+**Sir Honnung von Hoiser** wiederum bewies, dass nicht jede Tollkühnheit im Kampf geschieht. Wer keine Furcht mehr kennt, wägt auch nicht mehr ab, und so ließ er sich nach der Schlacht in einen der Brunnenschächte der Bibliothek hinab, weil er in der Tiefe grünes Glimmen gesehen zu haben glaubte. Der Stein war glitschig vom Ruß der Jahre; er verlor den Halt, schlug auf und ging unter. Was er dabei schluckte, war jenes Wasser, das der Komet vergiftet hat — es schmeckt nach Metall und brennt noch Tage später in der Kehle. Man zog ihn wieder heraus, hustend, mit leeren Händen. Das Fieber, das folgte, warf den Mann, den auf dem Schlachtfeld nichts mehr aufhielt, für Wochen auf ein Lager: Er wird die nächste Schlacht nicht mitreiten, und Robba soll gesagt haben, es sei genau die Art Verlust, für die man niemandem die Schuld geben könne.
 
-Doch nicht alles, was aus diesem Tag hervorging, war Verlust. Der Schütze **Marcus**, der gemeinsam mit Magister Julius Broun den Chaoskrieger auf der ersten Etage zu Fall gebracht hatte, bewies in jenem Moment mehr Nerven und Können, als man einem einfachen Söldner zutraut — eine ruhige Hand inmitten eines Gebäudes, das um ihn herum in Chaos versank. Seine Kameraden sprechen seither anders von ihm. Was in der Bibliothek geschah, ließ sich nicht länger verbergen: Aus dem Söldner Marcus wurde in den Augen seiner Kameraden ein Held. Man sieht ihn seither mit anderen Augen — nicht mehr als einen von vielen mit der Armbrust, sondern als einen, der sich seinen Platz unter den Namen dieser Karawane redlich verdient hat.
+Doch nicht alles, was aus diesem Tag hervorging, war Verlust. In Tilea, wo **Marcus** das Handwerk gelernt hat, drillt man Armbrustschützen nicht auf Schnelligkeit, sondern auf Gleichmut: hinter der Pavese knien, spannen, atmen, den Bolzen erst dann laufen lassen, wenn er sitzt — und das inmitten eines Schlachtfeldes, das einen Mann in Stücke schreit. Sein Leben lang hatte er das geübt und nie erfahren, ob es hielte. In der Bibliothek erfuhr er es. Während unter ihm Freunde zu Boden gingen, während Asche und brennendes Pergament die Luft schwarz färbten und niemand sagen konnte, aus welcher Richtung der nächste Angriff käme, kniete er zwischen den umgestürzten Regalen, zählte den Schlag seines eigenen Herzens ab und wartete, bis der Habicht auf der Galerie stillstand. Der Bolzen traf; der Chaoskrieger stürzte. Nicht der Treffer machte den Unterschied — Treffer hatte Marcus schon viele gelandet —, sondern dass er in diesem Getöse überhaupt zum Schuss gekommen war.
+
+Seine Kameraden bemerkten es. Söldner zählen einander nicht nach Tugend, sondern danach, wer im schlimmsten Augenblick noch tut, wofür er bezahlt wird, und nach dieser Rechnung stand Marcus an jenem Tag höher als die meisten. Was in der Bibliothek geschah, ließ sich danach nicht mehr übersehen: Aus dem Söldner Marcus wurde in den Augen der Karawane ein Mann mit Namen. Man setzt ihn seither nicht mehr dorthin, wo Zahl gebraucht wird, sondern dorthin, wo es auf einen einzigen ruhigen Schuss ankommt.

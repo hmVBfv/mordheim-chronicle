@@ -1,6 +1,6 @@
 ---
 ref: "prolog"
-title: "Der Fall des Kometen"
+title: "Auf Flügeln aus Feuer"
 chapter: "Prolog"
 ic_date: "1999–2000 IC"
 date: 2026-06-01

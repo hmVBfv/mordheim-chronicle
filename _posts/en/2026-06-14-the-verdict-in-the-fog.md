@@ -1,10 +1,10 @@
 ---
 ref: "battle-1"
-title: "Fog over Quayside"
+title: "The Verdict in the Fog"
 chapter: "First Battle"
 ic_date: "Early in the year 2000 IC"
 place: "Quayside, Mordheim"
-victor: "Rangvald's Reavers"
+victor: "The field stayed with Rangvald's Reavers — the caravan fell back into the fog with its wares, the Children of Sotek melted away downriver."
 date: 2026-06-14
 ---
 
@@ -40,8 +40,14 @@ The Children of Sotek, beaten and thinned, withdrew into the fog from which they
 
 ### Aftermath
 
-Only when the fog lifted and each band bore away its fallen to tend them did the true price of that first encounter reveal itself. Not everyone who had gone down would wake again. **Sir Dieter von Wurtzen** of the Ardent Caravan succumbed to his wounds; among the Children of Sotek, a Skink and a Saurus warrior did not return to life — the first names the City of the Damned claimed for its own.
+Only when the fog lifted and each band bore away its fallen to tend them did the true price of that first encounter reveal itself. Not everyone who had gone down would wake again.
 
-Yet from blood, too, grows strength. **Sir Honnung von Hoiser**, forced to the ground beneath Ulfrik's blade, returned hardened — from now on he knows no fear. The Chaos gods, pleased with the deeds of their servant, gifted their Packmaster **Styrkarr Skysplitter** with new strength of body. **Wonton**, however, whom Ottilie had wrestled down in the fog, survived — yet the wound he carried away from that fall would never fully heal. On many a morning it will keep him from taking the field at all.
+**Sir Dieter von Wurtzen** had attached himself to the caravan the way landless knights do: for pay, for rations, and for the chance of winning back abroad what had been gambled away at home. The hounds reached him before he could even bring his shield up, and what the Reavers left behind was no longer a man one buries with honours — Robba had him put into the mud of the bank without arms or priest, because the air of Quayside punishes every delay with sickness. Among the Children of Sotek a Skink and a Saurus warrior did not return to life; their brothers carried them away without a word, as they do with everything that falls to the Old Plans. Four names, then, the City of the Damned claimed on that first day, and three of them no one will ever speak again.
+
+Other things grow out of blood as well. **Sir Honnung von Hoiser** had been driven to his knees beneath Ulfrik's blade — beneath the blade of a man who takes his byname from what he does to the living. What happened in the moments after, the knight has never described to anyone, not to Robba and not to his brothers-in-arms: that he lay on the wet cobbles with the Chaos champion's shadow across him, waiting for the stroke that would finish him. It never came. Whether the fog drew the champion off, whether a shout pulled him away, whether it was nothing but whim, Honnung never learned. Reikland teaches a knight a great deal about an honourable death and not one word about the minutes afterwards, when it has failed to arrive. Anyone who has watched him go into a fight since has noticed that his eyes no longer search out the way back. He has already been through the moment of his own death; whatever comes at him now can offer him nothing but that same moment a second time.
+
+The powers **Styrkarr Skysplitter** serves had likewise heard the threefold verdict in the fog. Tchar rewards with neither gold nor land, but by reshaping the servant himself. In the weeks after Quayside the Packmaster grew broader across the shoulders, the cords of his arms standing out like rope, and he lifted without effort what he would once have strained at. His men marked it with that mixture of awe and unease the seer draws in any case — for a man who accepts gifts from the Changer of the Ways surrenders some say over his own body, and none of them knows what shape the next gift will take.
+
+**Wonton**, whom Ottilie had wrestled down in the fog, woke again — but the wound from that fall never closed properly. The Children of Sotek come from the close heat of Lustria, and what would scar over there within days stays open and stiff in the damp cold of Ostermark. On some mornings, when the fog creeps up off the Stir, the leg will not carry him. Then the Great Crest stays behind in camp and watches his brothers set out without him.
 
 Three warbands. One fog. One first victor. The City of the Damned had only just begun to exact its toll.
