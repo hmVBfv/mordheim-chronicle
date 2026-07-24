@@ -1,0 +1,65 @@
+---
+ref: "battle-3"
+title: "Die Wolfsgrube im Reichenviertel"
+chapter: "Dritte Schlacht"
+ic_date: "Spätfrühling 2000 IC"
+place: "Anwesen im Reichenviertel, Mordheim"
+victor: "Rangvald's Reavers & Kinder des Sotek (geteiltes Kopfgeld) · Silberne Karawane in die Flucht geschlagen"
+date: 2026-07-12
+---
+
+### Der Ruf des Juweliers
+
+Der Spätfrühling hatte über Mordheim eine trügerische Milde ausgebreitet. In den Ritzen der geborstenen Prachtstraßen des Reichenviertels wuchs Unkraut zwischen dem Marmor empor, Efeu rankte über rußgeschwärzte Fassaden, und die Wärme, die endlich zurückgekehrt war, weckte weniger neues Leben als vielmehr die Fäulnis dessen, was der Komet zurückgelassen hatte. Hier hatten einst die Reichsten der Stadt residiert; nun standen ihre Villen als ausgebrannte Gerippe, die zerbrochenen Bleiglasfenster wie erblindete Augen, die vergoldeten Simse geschwärzt und abblätternd.
+
+Diesmal war es nicht der Nebel und auch nicht der Zufall, der drei Wege zusammenführte, sondern ein Versprechen aus Gold, an ein Brett genagelt und von Mund zu Mund weitergetragen. Balthasar Kessler, ein wohlhabender Juwelier, dessen Anwesen einst zu den prächtigsten des Reichenviertels gezählt hatte, sah sich einer Plage gegenüber, wie sie selbst Mordheim selten hervorbrachte: Mutierte Wölfe, vom Wyrdstone gezeichnet, hatten sein verlassenes Haus zu ihrer neuen Höhle erkoren. Aus den einst prunkvollen Sälen war eine Grube aus Knochen, Aas und beißendem Moschusgestank geworden, und mit jeder Nacht wurde ihr Heulen lauter, ihre Zahl größer. Ohne eigene Klingen, verzweifelt, bot er eine Summe für jeden erlegten Wolf, die selbst hartgesottene Söldner aufhorchen ließ.
+
+Für Rangvalds Reavers war es die Aussicht auf ein weiteres Opfer, das sie ihren Göttern darbringen konnten — Blut, das ohnehin vergossen werden musste, nun mit einem Preis versehen. Für Robba und die Silberne Karawane war es schlicht eine Gelegenheit, der sich keine Händlerin verschließen würde. Und selbst die Kinder des Sotek unter Yingling, dem schlangentätowierten Skink-Priester, ließen sich von der Aussicht nicht gänzlich unbeeindruckt — Gold bedeutet den Kindern des Sotek wenig, doch das Versprechen eines beinah festlichen Mahls aus frischem Wolfsfleisch klang verlockend genug. Yingling, der die Sprache der Menschen nur in Bruchstücken beherrschte, konnte sich mit dem Juwelier kaum verständigen — am Ende jedoch würde auch seinem Trupp das gleiche Gold für jeden erlegten Wolf zustehen, ob er die Abmachung nun im Wortlaut verstanden hatte oder nicht.
+
+Nicht alle, die in den vergangenen Schlachten gekämpft hatten, waren an diesem Tag bereit. Unter den Kindern des Sotek blieb Wonton zurück — jener Skink, der bereits im Nebel von Quayside zu Boden gegangen war und seitdem eine Wunde am Leibe trug, die sich nicht schließen wollte. Am Morgen der Schlacht saß er, die Klauen an das kalte Pflaster gepresst, und wusste vor allen anderen: Sein Fleisch würde ihn heute nicht tragen. Er blieb, wo er war. Sir Honnung von Hoiser rang derweil noch mit dem kontaminierten Wasser, das er in der Bibliothek geschluckt hatte, und Rudelführer Styrkarr Skysplitter kurierte seinen verwundeten Arm aus — beide würden diese Schlacht von fern miterleben müssen. Doch neue Gesichter füllten die Lücken: Der Chaosbande schlossen sich neue Hunde an, jung, hungrig und roh, während die Silberne Karawane einen weiteren Ritter für sich gewann — Sir Olvir von der Krunkmark, aus dem sturmumtosten Nordland, wo man die Langschiffe der Norse von Kindesbeinen an fürchten lernt, der sich fortan an die Seite Sir Honnungs stellen würde.
+
+### Die Jagd beginnt
+
+Anfangs schien der Tag den Chaoskriegern und Echsenmenschen mühelos in die Hände zu fallen. Die Wölfe, so zahlreich sie auch waren, boten ihren geübten Klingen und Krallen kaum Widerstand — sie schlugen sich durch das Rudel wie durch dürres Gestrüpp, und die Kadaver häuften sich zwischen den umgestürzten Säulen des einstigen Empfangssaals.
+
+Die Silberne Karawane hingegen hatte sich verkalkuliert. In einer Mischung aus ungünstiger Stellung und der Gier nach dem versprochenen Gold hatte sie die schiere Zahl der Bestien unterschätzt. Eckhardt und Eberhardt gingen zu Boden, noch ehe sie sich richtig hatten formieren können, und das Geheul, das durch die widerhallenden Gänge des Anwesens gellte, lockte weitere Wölfe von außerhalb herbei — sie drängten durch zerborstene Türen und Fensterhöhlen in Flanke und Rücken der Karawane, ein Ring, der sich mit jedem Atemzug enger zog.
+
+In dieser Bedrängnis begingen Marcus und Magister Julius Broun einen folgenschweren Fehler. Ob aus Überreaktion oder blanker Panik geboren — sie schickten Warnschüsse in Richtung der Chaoskrieger, die sich zwar dem allgemeinen Getümmel zugewandt, der Karawane gegenüber aber bislang keinerlei Feindseligkeit gezeigt hatten, voll auf die Wölfe konzentriert. Es war ein Funke, den es nicht gebraucht hätte: Die Diener des Chaos wandten sich nun auch der Karawane zu, ihr Kriegsgeschrei kaum noch vom Geheul der Wölfe zu unterscheiden.
+
+Auf der anderen Seite des Anwesens rutschte Yingling von einem Trümmerbrocken — sei es vom Kometen selbst hinterlassen oder von einem eingestürzten Haus, niemand konnte es genau sagen. Ein ungewöhnlicher Fehltritt für einen sonst so behänden Skink. Dass er den Sturz nicht schlimmer büßte, verdankte er dem, was seine Reisen ihm mittlerweile eingebracht hatten: Sein Leib, gestählt durch das Blutvergießen der vergangenen Wochen, trug ihn nun zäher, als sein schlanker Körper vermuten ließ — und doch trug er, mit einer Wunde am Bein, den Preis seiner eigenen Unachtsamkeit davon.
+
+### Der Frostsäbler
+
+Als die Wölfe zusehends dezimiert wurden, trat aus den tiefsten Schatten des Anwesens eine neue Gestalt hervor — ein gewaltiger Frostsäbler, umgeben von den letzten unversehrten Tieren seines Rudels, sein Atem sichtbar selbst in der Frühlingswärme, die Augen im Zwielicht kalt wie Eis.
+
+Gemeinsam mit seinen Wölfen umzingelte er Sir Olvir von der Krunkmark, Ottilie und Robba. Robba ging unter den Pranken der Bestien zu Boden. Sir Olvir hingegen weigerte sich, auch nur einen Schritt zurückzuweichen — selbst als er, bereits am Boden liegend, von zwei Wölfen zugleich bedrängt wurde, kämpfte er weiter, mit einer Sturheit, von der seine Kameraden noch lange nach dieser Schlacht erzählen sollten.
+
+Es war schließlich einer der Chaoshunde, angepeitscht von Ulfrik dem Pfähler, der in Abwesenheit des Rudelführers die Peitsche führte, der dem Frostsäbler den tödlichen Stoß versetzte. Von diesem Tag an würde man von ihm als dem Frostsäblertöter sprechen — ein Ehrentitel, den er sich mit dem letzten Rest seiner Kraft erkaufte, denn kurz darauf brach auch er, erschöpft und blutend, selbst zu Boden.
+
+Weiter hinten sorgten die Söldner der Karawane für die flankierenden Wölfe, während Magister Julius Broun sein Zauberwissen gegen Rangvald selbst zu wenden versuchte. Silbern schimmernde Pfeile formten sich aus der Luft um ihn, kreisten einmal, zweimal, und schossen dann auf den Chaosanführer zu — acht an der Zahl, ein Sturm aus geschliffenem Licht. Doch Rangvalds vom Chaos gehärteter Leib nahm die Treffer, ohne zu wanken, und der Zauber verpuffte wirkungslos an seiner unnatürlichen Zähigkeit.
+
+Drei Chaoskrieger stürmten unterdessen den Handelswagen der Karawane, doch ihre Schläge gegen Räder und massives Holz erwiesen sich als ebenso vergeblich wie Julius Brouns Zauber gegen ihren Anführer. In ihrem Frust wandten sich zwei von ihnen gegen den Magister selbst — der jedoch, wie schon der Wagen zuvor, nicht nur unbeschadet davonkam, sondern einen der Angreifer sogar mit seinem eigenen Dolch zu Boden brachte.
+
+Während all dies geschah, hatten die Echsenmenschen ihre Aufgabe längst nahezu vollendet. Mit der kühlen, unerbittlichen Disziplin, die ihresgleichen sucht, hatten Saurus und Skinks das Wolfsrudel Stück für Stück auseinandergerissen — kein wildes Gemetzel, sondern eine Jagd mit der Präzision uralter Krieger, die seit Jahrtausenden nichts anderes kennen als das Erfüllen eines Auftrags. Im Herzen dieser Jagd stand **Blutvater Ootl**, der Totemkrieger, der die Bestien niederschlug, ohne einen Schritt zu weichen, während der Great Crest Wantan, an diesem Tag ohne seinen Bruder im Feld, die Skinks um ihn herum in immer engeren Bögen führte. Wo die Karawane sich in Panik und Übereifer verstrickt hatte, zogen die Kinder des Sotek ihre Kreise enger, bis der letzte Wolf verstummte und nur noch das Keuchen der Skinks und das leise Klicken ihrer Klauen auf dem Pflaster zu hören war.
+
+### Blutgeld
+
+Einmal mehr entschied sich die Silberne Karawane zum Rückzug — diesmal geschlagener als je zuvor. Nie hatte sie so viele der Ihren gleichzeitig am Boden zurücklassen müssen, und was als geordneter Rückzug begann, wurde bald zu einer regelrechten Flucht aus dem Anwesen, während hinter ihnen die letzten Wölfe verstummten.
+
+Die beiden anderen Warbands hingegen verweilten. Für Rangvalds Reavers war die Schlacht noch nicht zu Ende, solange noch Gold für jeden erlegten Wolf zu holen war — ihre Krieger zogen von Kadaver zu Kadaver, sammelten den Beweis ihrer Jagd, um ihn dem Juwelier vorzulegen, der zitternd hinter verriegelten Türen auf das Ende des Gemetzels wartete. Auch die Kinder des Sotek blieben — nicht aus Gier nach Gold, sondern weil das Versprechen eines Mahls, so ungewohnt es für sie auch war, nicht ungenutzt verstreichen sollte. Zwischen den Kadavern der Wölfe sammelten sich Skink und Saurus, und was an diesem Abend nicht dem Gold des Juweliers zufiel, fiel dem Hunger der Echsenmenschen zu.
+
+### Nachwirkungen
+
+Balthasar Kessler hielt sein Versprechen — und mehr als das. Er zahlte eine Summe aus, wie sie keine der drei Warbands seit Langem auf einem Haufen gesehen hatte, Gold, das in klirrenden Säcken den Besitzer wechselte.
+
+Während die Reavers noch die Kadaver durchstreiften und ihre Beute zusammentrugen, stießen sie in einem Nebengebäude des Anwesens auf eine weitere Gestalt — keinen Wolf, sondern einen Mann, oder das, was von einem Mann noch übrig war. Er kauerte zwischen zerbrochenen Möbeln, die Kleider zerfetzt, die Augen weit und leer auf etwas gerichtet, das nur er sehen konnte. Was auch immer ihn in dieser Nacht der Kometeneinschläge sein Hab und Gut, seine Familie, seinen Verstand gekostet hatte — er murmelte nur noch Bruchstücke von Worten, gehörte niemandem mehr, gehörte nichts mehr. Rangvald erkannte in ihm kein Opfer des Mitleids, sondern eine Gabe für seine Götter. Ohne Zögern schnitt er dem Gebrochenen die Kehle über einem der Wolfskadaver auf, ein Opfer im Angesicht des bereits vergossenen Blutes. Die Mächte, denen er diente, nahmen die Gabe an — Rangvald spürte, wie ihre Aufmerksamkeit sich fester um ihn schloss, wie ein Band, das sich enger zieht, und mit ihr wuchs sein eigenes Verständnis dessen, was noch vor ihm lag.
+
+Manche wuchsen an diesem Tag über sich hinaus. Magister Julius Broun, gestählt durch das Gefecht am Handelswagen, fand eine neue Schärfe in seinem Klingenspiel. Unter den Skinks der Kinder des Sotek zeigten sich einige noch flinker als zuvor, ihre Bewegungen kaum noch vom Auge zu verfolgen.
+
+Doch der Sieg hatte seinen Preis. Der Chaoshund, der dem Frostsäbler den Todesstoß versetzt und sich den Titel Frostsäblertöter verdient hatte, überlebte seine eigenen Wunden nicht. Mit Styrkarrs Rückkehr aus seiner Genesung munkelt man jedoch bereits von einem dunklen Ritual, das ihn aus dem Reich der Toten zurückholen könnte — ein Vorhaben, das gewiss nicht ohne seinen eigenen Preis bleiben wird.
+
+Für die Silberne Karawane wog der Tag am schwersten. Eckhardt und Eberhardt, die gemeinsam als eine Einheit gekämpft und sich erst in der vergangenen Schlacht eine neue Schärfe im Kampf erarbeitet hatten, erlagen ihren Wunden. Ihr Verlust traf die Karawane hart — zwei, die zusammen gefallen waren, wie sie zusammen gekämpft hatten.
+
+Und noch eine Wunde eigener Art trug die Karawane davon, eine, die kein Verband heilen kann. Robba selbst, unter den Pranken des Frostsäblers zu Boden gegangen, war zwischen den Wolfskadavern liegengeblieben — bewusstlos, verletzlich, allein für den Bruchteil einer Stunde. Als ihre Leute sie schließlich fanden und aus dem Anwesen trugen, fehlten ihr die Beutel am Gürtel, die versiegelten Kisten unter ihrem Umhang, jene kleinen Reichtümer, die eine Händlerin stets bei sich trägt und die ihrem Wort mehr Gewicht verleihen als jeder Handschlag. Wer ihr die Sachen von Leib und Wagen genommen hatte — eine flüchtende Ratte aus der Kanalisation, ein hungriger Bewohner der Nebengassen, vielleicht sogar ein Söldner der eigenen Reihen im allgemeinen Rückzug —, würde sie nie erfahren. Für eine Händlerin, die zu ihren Waren steht wie zu einem Teil ihrer selbst, war es der bitterste aller Verluste dieses Tages: bestohlen worden zu sein an den Dingen, deren Verkauf ihr Handwerk ist.
+
+Die Kinder des Sotek hingegen verließen das Reichenviertel nahezu unversehrt, ihre Reihen kaum gelichtet, ihre Beutel schwer von Gold, das sie kaum zu schätzen wussten — und ihr Hunger, zumindest für diese eine Nacht, gestillt.

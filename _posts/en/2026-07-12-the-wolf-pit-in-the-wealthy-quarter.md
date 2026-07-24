@@ -1,0 +1,65 @@
+---
+ref: "battle-3"
+title: "The Wolf Pit in the Wealthy Quarter"
+chapter: "Third Battle"
+ic_date: "Late spring 2000 IC"
+place: "A manor in the wealthy quarter, Mordheim"
+victor: "Rangvald's Reavers & Children of Sotek (bounty shared) · Ardent Caravan routed"
+date: 2026-07-12
+---
+
+### The Jeweller's Summons
+
+Late spring had spread a deceptive mildness over Mordheim. In the cracks of the shattered grand avenues of the wealthy quarter, weeds pushed up between the marble, ivy crept over soot-blackened façades, and the warmth that had returned at last woke less new life than it did the rot of all the comet had left behind. Here the richest of the city had once resided; now their villas stood as burned-out skeletons, the shattered leaded windows like blinded eyes, the gilded cornices blackened and peeling.
+
+This time it was neither the fog nor chance that drew three paths together, but a promise of gold, nailed to a board and passed from mouth to mouth. Balthasar Kessler, a wealthy jeweller whose manor had once been among the finest of the wealthy quarter, faced a plague such as even Mordheim seldom bred: mutated wolves, marked by wyrdstone, had chosen his abandoned house for their new lair. What had once been splendid halls had become a pit of bones, carrion and biting musk-stench, and with every night their howling grew louder, their number greater. Without blades of his own, in desperation, he offered for every wolf slain a sum that made even hardened mercenaries prick up their ears.
+
+For Rangvald's Reavers it was the prospect of another offering they could lay before their gods — blood that had to be spilled in any case, now furnished with a price. For Robba and the Ardent Caravan it was simply an opportunity no merchant would turn away. And even the Children of Sotek under Yingling, the snake-tattooed Skink Priest, were not left wholly unmoved by the prospect — gold means little to the Children of Sotek, yet the promise of an almost festive meal of fresh wolf-meat rang tempting enough. Yingling, who spoke the tongue of men only in fragments, could scarcely make himself understood to the jeweller — yet in the end his band too would be owed the same gold for every wolf slain, whether he had grasped the bargain word for word or not.
+
+Not all who had fought in the past battles were ready that day. Among the Children of Sotek, Wonton stayed behind — that Skink who had already gone down in the fog of Quayside and had carried ever since a wound upon his body that would not close. On the morning of the battle he sat, claws pressed to the cold pavement, and knew before all others: his flesh would not bear him today. He stayed where he was. Sir Honnung von Hoiser, meanwhile, still wrestled with the contaminated water he had swallowed in the library, and Packmaster Styrkarr Skysplitter was nursing his wounded arm — both would have to follow this battle from afar. But new faces filled the gaps: new hounds joined the Chaos band, young, hungry and raw, while the Ardent Caravan won another knight for itself — Sir Olvir von der Krunkmark, out of storm-lashed Nordland, where men learn from childhood to dread the longships of the Norse, who would henceforth stand at Sir Honnung's side.
+
+### The Hunt Begins
+
+At first the day seemed to fall effortlessly into the hands of the Chaos warriors and the lizards. The wolves, for all their numbers, offered their practised blades and claws scarcely any resistance — they cut through the pack as through dry brush, and the carcasses piled up among the toppled columns of the former reception hall.
+
+The Ardent Caravan, on the other hand, had miscalculated. In a mixture of poor positioning and greed for the promised gold, it had underestimated the sheer number of the beasts. Eckhardt and Eberhardt went down before they could properly form up, and the howling that rang through the echoing corridors of the manor drew further wolves from outside — they pressed through burst doors and window-holes into the caravan's flank and rear, a ring that drew tighter with every breath.
+
+Hard pressed, Marcus and Magister Julius Broun made a fateful mistake. Whether born of overreaction or sheer panic — they sent warning shots toward the Chaos warriors, who had turned to the general fray but had thus far shown the caravan no hostility whatever, wholly intent on the wolves. It was a spark no one needed: the servants of Chaos now turned to the caravan as well, their war-cry scarcely to be told any longer from the howling of the wolves.
+
+On the other side of the manor Yingling slipped from a lump of rubble — whether left by the comet itself or by a collapsed house, no one could say for certain. An unusual misstep for so nimble a Skink. That he paid no worse for the fall he owed to what his travels had made of him: his body, tempered by the bloodshed of the past weeks, now carried him more stoutly than his slender frame suggested — and yet, with a wound to the leg, he carried away the price of his own carelessness.
+
+### The Frost Sabre
+
+As the wolves were steadily thinned, a new shape stepped from the deepest shadows of the manor — a mighty frost sabre, its breath visible even in the spring warmth, surrounded by the last unhurt beasts of its pack, its eyes cold as ice in the twilight.
+
+Together with its wolves it surrounded Sir Olvir von der Krunkmark, Ottilie and Robba. Robba went down beneath the beasts' claws. Sir Olvir, however, refused to give even a single step — even as he lay already on the ground, beset by two wolves at once, he fought on, with a stubbornness his comrades would tell of long after this battle.
+
+It was in the end one of the Chaos hounds, whipped on by Ulfrik the Impaler, who wielded the lash in the Packmaster's absence, that dealt the frost sabre the killing blow. From that day on he would be spoken of as the Frost-Sabre-Slayer — an honour he bought with the last of his strength, for shortly after he too, spent and bleeding, went down himself.
+
+Further back the caravan's mercenaries dealt with the flanking wolves, while Magister Julius Broun sought to turn his spellcraft against Rangvald himself. Silver-shimmering arrows formed from the air about him, circled once, twice, then shot toward the Chaos leader — eight in number, a storm of honed light. But Rangvald's Chaos-hardened body took the hits without so much as swaying, and the spell fizzled away, powerless against his unnatural toughness.
+
+Three Chaos warriors meanwhile stormed the caravan's trade-wagon, but their blows against wheels and solid timber proved as vain as Julius Broun's spell against their leader. In their frustration two of them turned upon the magister himself — who, however, like the wagon before him, not only came away unscathed but even brought one of his attackers to the ground with the man's own dagger.
+
+While all this unfolded, the lizards had long since all but completed their task. With the cool, implacable discipline that has no equal, Saurus and Skink had torn the wolf-pack apart piece by piece — no wild slaughter, but a hunt with the precision of ancient warriors who for thousands of years have known nothing but the fulfilment of a charge. At the heart of it stood **Blutvater Ootl**, the Totem Warrior, felling beasts without yielding a step, while the Great Crest Wantan, in the field that day without his brother, wheeled the Skinks about him in ever-tightening arcs. Where the caravan had tangled itself in panic and overzeal, the Children of Sotek drew their circles tighter, until the last wolf fell silent and nothing more could be heard but the panting of the Skinks and the soft click of their claws upon the pavement.
+
+### Blood-Money
+
+Once again the Ardent Caravan chose to withdraw — this time more soundly beaten than ever before. Never had it had to leave so many of its own on the ground at once, and what began as an orderly retreat soon became an outright flight from the manor, while behind them the last wolves fell silent.
+
+The two other warbands, by contrast, lingered. For Rangvald's Reavers the battle was not yet over so long as there was still gold to be had for every wolf slain — their warriors moved from carcass to carcass, gathering the proof of their hunt to lay before the jeweller, who waited trembling behind bolted doors for the slaughter to end. The Children of Sotek stayed too — not out of greed for gold, but because the promise of a meal, however unaccustomed to them, was not to be let slip. Among the wolf-carcasses Skink and Saurus gathered, and what did not fall that evening to the jeweller's gold fell to the hunger of the lizards.
+
+### Aftermath
+
+Balthasar Kessler kept his promise — and more than that. He paid out a sum such as none of the three warbands had seen in one heap for a long while, gold that changed hands in clinking sacks.
+
+While the Reavers still roamed the carcasses and gathered their spoils, they came upon another figure in an outbuilding of the manor — not a wolf, but a man, or what was left of a man. He cowered among broken furniture, his clothes in tatters, his eyes wide and empty, fixed on something only he could see. Whatever had cost him, on that night of the comet-strikes, his goods, his family, his mind — he now murmured only fragments of words, belonged to no one any longer, belonged to nothing any longer. Rangvald saw in him no object of pity, but a gift for his gods. Without hesitation he cut the broken man's throat over one of the wolf-carcasses, an offering in the sight of blood already spilled. The powers he served accepted the gift — Rangvald felt their attention close more firmly about him, like a band drawn tighter, and with it grew his own understanding of what still lay ahead.
+
+Some grew beyond themselves that day. Magister Julius Broun, tempered by the fight at the trade-wagon, found a new sharpness in his swordplay. Among the Skinks of the Children of Sotek, several showed themselves nimbler still than before, their movements scarcely to be followed by the eye.
+
+But the victory had its price. The Chaos hound that had dealt the frost sabre its death-blow and earned the title Frost-Sabre-Slayer did not survive its own wounds. With Styrkarr's return from his recovery, however, there is already muttering of a dark ritual that might call him back from the realm of the dead — an undertaking that will surely not come without a price of its own.
+
+For the Ardent Caravan the day weighed heaviest. Eckhardt and Eberhardt, who had fought together as a single unit and had only in the last battle won themselves a new sharpness in combat, succumbed to their wounds. Their loss struck the caravan hard — two who had fallen together, as they had fought together.
+
+And another wound of its own kind the caravan carried away, one no bandage can heal. Robba herself, gone down beneath the frost sabre's claws, had been left lying among the wolf-carcasses — unconscious, defenceless, alone for the better part of an hour. When her people at last found her and bore her out of the manor, the pouches at her belt were gone, the sealed cases beneath her cloak, those small riches a merchant always carries and that lend her word more weight than any handshake. Who had taken the things from her body and her wagon — a fleeing rat from the sewers, a hungry dweller of the side-alleys, perhaps even a mercenary of her own ranks in the general retreat — she would never learn. For a merchant who stands by her wares as by a part of herself, it was the bitterest of all the day's losses: to have been robbed of the very things whose sale is her craft.
+
+The Children of Sotek, by contrast, left the wealthy quarter all but unscathed, their ranks scarcely thinned, their pouches heavy with gold they hardly knew how to value — and their hunger, for this one night at least, stilled.

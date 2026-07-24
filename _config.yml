@@ -1,0 +1,38 @@
+# --- Site ---
+title: "Die Chronik von Mordheim"
+tagline: "Eine Erzählung der Stadt der Verdammten"
+description: "Kampagnen-Chronik unserer Mordheim-Runde, zweisprachig (DE/EN)."
+lang: de
+
+# GitHub project site: https://<user>.github.io/mordheim-chronicle/
+baseurl: "/mordheim-chronicle"
+url: ""
+
+# --- Build ---
+markdown: kramdown
+
+# Posts live in _posts/de and _posts/en. Defaults set layout, language and
+# the URL prefix automatically based on the folder — no per-post config needed.
+defaults:
+  - scope:
+      path: "_posts/de"
+      type: "posts"
+    values:
+      layout: "chapter"
+      lang: "de"
+      permalink: "/chronik/:title/"
+  - scope:
+      path: "_posts/en"
+      type: "posts"
+    values:
+      layout: "chapter"
+      lang: "en"
+      permalink: "/en/chronicle/:title/"
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  # Working material, deliberately not published:
+  - notes

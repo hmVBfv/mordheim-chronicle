@@ -1,0 +1,59 @@
+---
+layout: default
+---
+{% assign L = page.lang | default: site.lang %}
+{% if L == 'en' %}
+  {% assign home_url = '/en/' %}
+  {% assign t_outcome = 'Outcome' %}
+  {% assign t_prev = '← Previous chapter' %}
+  {% assign t_next = 'Next chapter →' %}
+  {% assign t_toc = 'All chapters' %}
+{% else %}
+  {% assign home_url = '/' %}
+  {% assign t_outcome = 'Ausgang' %}
+  {% assign t_prev = '← Vorheriges Kapitel' %}
+  {% assign t_next = 'Nächstes Kapitel →' %}
+  {% assign t_toc = 'Alle Kapitel' %}
+{% endif %}
+
+{% comment %} prev/next within the SAME language, chronological order {% endcomment %}
+{% assign chapters = site.posts | where: "lang", L | sort: "date" %}
+{% assign idx = 0 %}
+{% for c in chapters %}{% if c.url == page.url %}{% assign idx = forloop.index0 %}{% endif %}{% endfor %}
+{% assign previdx = idx | minus: 1 %}
+{% assign nextidx = idx | plus: 1 %}
+{% assign lastidx = chapters.size | minus: 1 %}
+{% if idx > 0 %}{% assign prevp = chapters[previdx] %}{% else %}{% assign prevp = nil %}{% endif %}
+{% if idx < lastidx %}{% assign nextp = chapters[nextidx] %}{% else %}{% assign nextp = nil %}{% endif %}
+
+<article class="chapter">
+  <header class="chapter-head">
+    {% if page.chapter %}<p class="eyebrow">{{ page.chapter }}</p>{% endif %}
+    <h1 class="chapter-title">{{ page.title }}</h1>
+    {% if page.ic_date or page.place %}
+    <p class="chapter-meta">
+      {% if page.ic_date %}<span>{{ page.ic_date }}</span>{% endif %}
+      {% if page.ic_date and page.place %}<span class="sep" aria-hidden="true">·</span>{% endif %}
+      {% if page.place %}<span>{{ page.place }}</span>{% endif %}
+    </p>
+    {% endif %}
+  </header>
+
+  <div class="chapter-body">
+    {{ content }}
+  </div>
+
+  {% if page.victor %}
+  <p class="chapter-outcome"><span class="label">{{ t_outcome }}</span> {{ page.victor }}</p>
+  {% endif %}
+
+  <nav class="chapter-nav" aria-label="Kapitelnavigation">
+    <div class="nav-prev">
+      {% if prevp %}<a href="{{ prevp.url | relative_url }}"><span class="dir">{{ t_prev }}</span><span class="ttl">{{ prevp.title }}</span></a>{% endif %}
+    </div>
+    <div class="nav-toc"><a href="{{ home_url | relative_url }}">{{ t_toc }}</a></div>
+    <div class="nav-next">
+      {% if nextp %}<a href="{{ nextp.url | relative_url }}"><span class="dir">{{ t_next }}</span><span class="ttl">{{ nextp.title }}</span></a>{% endif %}
+    </div>
+  </nav>
+</article>

@@ -1,0 +1,293 @@
+/* =========================================================
+   Die Chronik von Mordheim — theme
+   An illuminated dark-manuscript look: bone ink on charred
+   vellum, wyrdstone-green rules, dried-blood chapter marks.
+   ========================================================= */
+
+:root {
+  --ink:       #14161c;   /* charred blue-charcoal background   */
+  --ink-2:     #1b1e26;   /* raised panels / nav                */
+  --bone:      #e7dec8;   /* primary parchment text             */
+  --bone-dim:  #9c9482;   /* meta, captions                     */
+  --wyrd:      #9fb857;   /* wyrdstone green — the one accent   */
+  --wyrd-glow: #c6e06a;   /* hover state only                   */
+  --oxblood:   #b04a41;   /* dried blood — chapter marks, initial */
+  --rule:      rgba(159, 184, 87, 0.22);
+  --measure:   38rem;     /* readable line length               */
+}
+
+*, *::before, *::after { box-sizing: border-box; }
+
+html { -webkit-text-size-adjust: 100%; }
+
+body {
+  margin: 0;
+  background: var(--ink);
+  /* faint vellum grain via layered radial noise */
+  background-image:
+    radial-gradient(1200px 800px at 50% -10%, rgba(159,184,87,0.05), transparent 60%),
+    radial-gradient(900px 900px at 100% 100%, rgba(176,74,65,0.05), transparent 55%);
+  color: var(--bone);
+  font-family: "EB Garamond", Georgia, "Times New Roman", serif;
+  font-size: 1.19rem;
+  line-height: 1.72;
+  font-feature-settings: "liga" 1, "onum" 1;
+  text-rendering: optimizeLegibility;
+}
+
+.wrap { width: min(var(--measure), 100% - 2.5rem); margin-inline: auto; }
+
+a { color: var(--wyrd); text-decoration: none; }
+a:hover { color: var(--wyrd-glow); }
+
+:focus-visible {
+  outline: 2px solid var(--wyrd-glow);
+  outline-offset: 3px;
+  border-radius: 2px;
+}
+
+.skip-link {
+  position: absolute; left: -9999px; top: 0;
+  background: var(--wyrd); color: var(--ink);
+  padding: .5rem .9rem; font-family: "Cinzel", serif;
+}
+.skip-link:focus { left: .75rem; top: .75rem; z-index: 10; }
+
+/* ---------- Site header ---------- */
+.site-header {
+  text-align: center;
+  padding: 3.4rem 0 2.2rem;
+  border-bottom: 1px solid var(--rule);
+  margin-bottom: 3rem;
+}
+.site-title {
+  display: block;
+  font-family: "Cinzel", serif;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  font-size: clamp(1.7rem, 5vw, 2.9rem);
+  color: var(--bone);
+  line-height: 1.1;
+}
+.site-title:hover { color: var(--bone); }
+.site-tagline {
+  margin: .8rem 0 0;
+  font-style: italic;
+  font-size: 1.05rem;
+  color: var(--bone-dim);
+  letter-spacing: 0.01em;
+}
+
+/* ---------- Index: intro + table of chapters ---------- */
+.intro { text-align: center; margin-bottom: 2.8rem; }
+.lead {
+  font-size: 1.24rem;
+  font-style: italic;
+  color: var(--bone);
+  margin: 0 auto;
+  max-width: 34rem;
+}
+
+.toc { list-style: none; counter-reset: chap; margin: 0; padding: 0; }
+.toc-item { margin: 0; border-top: 1px solid var(--rule); }
+.toc-item:last-child { border-bottom: 1px solid var(--rule); }
+
+.toc-item a {
+  display: grid;
+  grid-template-columns: 2.6rem 1fr auto;
+  align-items: baseline;
+  gap: .3rem 1.1rem;
+  padding: 1.25rem .4rem;
+  color: var(--bone);
+}
+.toc-item a:hover { color: var(--bone); background: rgba(159,184,87,0.05); }
+
+.toc-item a::before {
+  counter-increment: chap;
+  content: counter(chap, upper-roman);
+  font-family: "Cinzel", serif;
+  color: var(--oxblood);
+  font-size: 1.05rem;
+  grid-row: 1 / span 2;
+  align-self: center;
+  text-align: center;
+}
+.toc-eyebrow {
+  grid-column: 2;
+  font-family: "Cinzel", serif;
+  font-size: .72rem;
+  letter-spacing: 0.18em;
+  text-transform: uppercase;
+  color: var(--wyrd);
+}
+.toc-title {
+  grid-column: 2;
+  font-size: 1.4rem;
+  line-height: 1.25;
+}
+.toc-date {
+  grid-column: 3;
+  grid-row: 1 / span 2;
+  align-self: center;
+  font-style: italic;
+  font-size: .95rem;
+  color: var(--bone-dim);
+  text-align: right;
+}
+
+/* ---------- Chapter ---------- */
+.chapter-head { text-align: center; margin-bottom: 2.6rem; }
+.eyebrow {
+  font-family: "Cinzel", serif;
+  font-size: .8rem;
+  letter-spacing: 0.24em;
+  text-transform: uppercase;
+  color: var(--wyrd);
+  margin: 0 0 .8rem;
+}
+.chapter-title {
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  font-size: clamp(1.8rem, 5.5vw, 2.7rem);
+  line-height: 1.15;
+  margin: 0;
+  color: var(--bone);
+}
+.chapter-meta {
+  margin: 1rem 0 0;
+  font-style: italic;
+  color: var(--bone-dim);
+  font-size: 1rem;
+}
+.chapter-meta .sep { margin: 0 .6rem; color: var(--wyrd); font-style: normal; }
+
+.chapter-body > p:first-of-type { margin-top: 0; }
+
+/* Illuminated initial on the opening paragraph */
+.chapter-body > p:first-of-type::first-letter {
+  font-family: "Cinzel", serif;
+  font-weight: 700;
+  float: left;
+  color: var(--oxblood);
+  font-size: 3.8rem;
+  line-height: .82;
+  padding: .35rem .55rem .1rem 0;
+  margin-top: .12rem;
+}
+
+.chapter-body p { margin: 0 0 1.35rem; }
+
+/* Scene headers within a chapter (### in markdown) */
+.chapter-body h3 {
+  font-family: "Cinzel", serif;
+  font-weight: 600;
+  font-size: 1.02rem;
+  letter-spacing: 0.14em;
+  text-transform: uppercase;
+  color: var(--wyrd);
+  text-align: center;
+  margin: 2.9rem 0 1.5rem;
+  position: relative;
+}
+.chapter-body h3::before {
+  content: "◆";
+  display: block;
+  color: var(--oxblood);
+  font-size: .7rem;
+  margin-bottom: 1rem;
+  opacity: .85;
+}
+
+.chapter-body strong { color: var(--bone); font-weight: 600; }
+.chapter-body em { color: var(--bone); }
+
+/* Outcome tag */
+.chapter-outcome {
+  margin: 2.6rem 0 0;
+  text-align: center;
+  font-style: italic;
+  color: var(--bone-dim);
+}
+.chapter-outcome .label {
+  display: inline-block;
+  font-family: "Cinzel", serif;
+  font-style: normal;
+  font-size: .72rem;
+  letter-spacing: 0.2em;
+  text-transform: uppercase;
+  color: var(--wyrd);
+  margin-right: .6rem;
+}
+
+/* ---------- Chapter navigation ---------- */
+.chapter-nav {
+  display: grid;
+  grid-template-columns: 1fr auto 1fr;
+  gap: 1rem;
+  align-items: start;
+  margin: 3.4rem 0 1rem;
+  padding-top: 1.8rem;
+  border-top: 1px solid var(--rule);
+}
+.chapter-nav .nav-next { text-align: right; }
+.chapter-nav .nav-toc {
+  align-self: center;
+  font-family: "Cinzel", serif;
+  font-size: .74rem;
+  letter-spacing: 0.16em;
+  text-transform: uppercase;
+}
+.chapter-nav .dir {
+  display: block;
+  font-family: "Cinzel", serif;
+  font-size: .7rem;
+  letter-spacing: 0.12em;
+  text-transform: uppercase;
+  color: var(--wyrd);
+  margin-bottom: .25rem;
+}
+.chapter-nav .ttl { display: block; color: var(--bone); font-size: 1.05rem; line-height: 1.2; }
+.chapter-nav a:hover .ttl { color: var(--wyrd-glow); }
+
+/* ---------- Footer ---------- */
+.site-footer {
+  margin-top: 4.5rem;
+  padding: 2.4rem 0 3rem;
+  border-top: 1px solid var(--rule);
+  text-align: center;
+  color: var(--bone-dim);
+  font-size: .95rem;
+}
+.site-footer .shard { display: block; color: var(--oxblood); margin-bottom: .7rem; }
+.site-footer p { margin: 0; font-style: italic; }
+
+/* ---------- Responsive ---------- */
+@media (max-width: 34rem) {
+  body { font-size: 1.12rem; }
+  .toc-item a { grid-template-columns: 2rem 1fr; }
+  .toc-date { grid-column: 2; grid-row: auto; text-align: left; margin-top: .1rem; }
+  .chapter-nav { grid-template-columns: 1fr; text-align: left; }
+  .chapter-nav .nav-next { text-align: left; }
+  .chapter-nav .nav-toc { text-align: left; }
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .chapter, .toc, .intro { animation: rise .6s ease both; }
+  @keyframes rise { from { opacity: 0; transform: translateY(8px); } to { opacity: 1; transform: none; } }
+}
+
+/* ---------- Language switch ---------- */
+.lang-switch {
+  display: flex;
+  gap: .55rem;
+  justify-content: center;
+  align-items: center;
+  font-family: "Cinzel", serif;
+  font-size: .72rem;
+  letter-spacing: 0.14em;
+  margin-bottom: 1.6rem;
+}
+.lang-switch .lang-current { color: var(--wyrd); }
+.lang-switch a { color: var(--bone-dim); }
+.lang-switch a:hover { color: var(--wyrd-glow); }
+.lang-switch a::before { content: "· "; color: var(--rule); }
