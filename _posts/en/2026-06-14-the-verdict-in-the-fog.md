@@ -6,13 +6,16 @@ ic_date: "Early in the year 2000 IC"
 place: "Quayside, Mordheim"
 victor: "The field stayed with Rangvald's Reavers — the caravan fell back into the fog with its wares, the Children of Sotek melted away downriver."
 date: 2026-06-14
+image: "quayside.jpg"
+image_alt: "Broken wharves on the Stir, sunken barges and a loading crane in the fog"
+image_caption: "Quayside, where the city's trade once came ashore"
 ---
 
 ### At the Quay
 
-Quayside had once been the beating heart of Mordheim's trade — that long row of wharves and warehouses on the bank of the River Stir, where barges from half the Empire unloaded their goods. Now the jetties lay broken in the water, half-sunken barges jutting like the ribs of dead beasts from the sluggish current, and the warehouses gaped at the sky with caved-in roofs. The Stir itself flowed dark and thick, and deep beneath its surface it glowed green here and there, where the comet had carried its poison down to the very bottom.
+Quayside had once been the beating heart of Mordheim's trade — that long row of wharves and warehouses on the bank of the River Stir, where barges from half the Empire unloaded their goods. Now the jetties lay broken in the water, half-sunken barges jutting like the ribs of dead beasts from the sluggish current, and the warehouses gaped at the sky with caved-in roofs. Above it all a loading crane of black oak still stood, its arm slanted out over the water, a hook hanging from its chain that had not moved since the comet. The Stir itself flowed dark and thick, and where the shadow of a sunken hull lay across the water it glowed green far below the surface, down where the comet had carried its poison to the riverbed. Across the water the city stood as an outline in the haze — towers without roofs, too distant for detail.
 
-It was still early in the year, and the cold lay biting over the city. Hoarfrost sheathed the shattered cobblestones, the warriors' breath stood before their faces like smoke, and off the water rolled a fog thick as wet wool — so dense that a man might lose the fellow at his side an arm's length away. Not a sound stirred but for the steady drip of the fog, the slap of the river against rotten timber and, somewhere high above in the white, the hoarse cry of a crow.
+It was still early in the year, and the cold lay biting over the city. Hoarfrost held only where no light reached it, on the north faces of the warehouses and under the jetties; everywhere else water stood in shallow pools between the broken stones and gave the sky back without making it any brighter. The warriors' breath stood before their faces like smoke, and off the water rolled a fog thick as wet wool — so dense that a man might lose the fellow at his side an arm's length away. Not a sound stirred but for the steady drip of the fog and the slap of the river against rotten timber. Three gulls sat close together on the bollards at the edge of the quay and did not cry out. They watched the men come, and stayed where they were.
 
 ### The Encounter
 

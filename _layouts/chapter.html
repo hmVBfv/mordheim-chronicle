@@ -39,6 +39,15 @@ layout: default
     {% endif %}
   </header>
 
+  {% if page.image %}
+  <figure class="chapter-figure">
+    <img src="{{ page.image | prepend: '/assets/img/' | relative_url }}"
+         alt="{{ page.image_alt | default: page.title | escape }}"
+         loading="lazy" decoding="async">
+    {% if page.image_caption %}<figcaption>{{ page.image_caption }}</figcaption>{% endif %}
+  </figure>
+  {% endif %}
+
   <div class="chapter-body">
     {{ content }}
   </div>

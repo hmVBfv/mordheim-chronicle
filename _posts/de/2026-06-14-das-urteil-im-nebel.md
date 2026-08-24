@@ -6,13 +6,16 @@ ic_date: "Frühes Jahr 2000 IC"
 place: "Quayside, Mordheim"
 victor: "Das Feld blieb Rangvald's Reavers — die Karawane wich mit ihren Waren in den Nebel, die Kinder des Sotek verschwanden flussabwärts."
 date: 2026-06-14
+image: "quayside.jpg"
+image_alt: "Zerbrochene Kais am Stir, gesunkene Barken und ein Ladekran im Nebel"
+image_caption: "Quayside, wo der Handel der Stadt einst anlandete"
 ---
 
 ### Am Kai
 
-Quayside war einst das schlagende Herz des Handels von Mordheim gewesen — jene lange Reihe von Kais und Lagerhäusern am Ufer des Flusses Stir, wo Kähne aus dem halben Reich ihre Waren löschten. Nun lagen die Anlegestege gebrochen im Wasser, halb versunkene Barken ragten wie die Rippen verendeter Tiere aus der trägen Strömung, und die Lagerhäuser gähnten mit eingestürzten Dächern in den Himmel. Der Stir selbst floss dunkel und zäh dahin, und tief unter seiner Oberfläche glomm es hier und da grün, wo der Komet sein Gift bis auf den Grund getragen hatte.
+Quayside war einst das schlagende Herz des Handels von Mordheim gewesen — jene lange Reihe von Kais und Lagerhäusern am Ufer des Flusses Stir, wo Kähne aus dem halben Reich ihre Waren löschten. Nun lagen die Anlegestege gebrochen im Wasser, halb versunkene Barken ragten wie die Rippen verendeter Tiere aus der trägen Strömung, und die Lagerhäuser gähnten mit eingestürzten Dächern in den Himmel. Über allem stand noch ein Ladekran aus schwarzem Eichenholz, den Ausleger schräg über das Wasser gereckt; an seiner Kette hing ein Haken, der sich seit dem Kometen nicht mehr bewegt hatte. Der Stir selbst floss dunkel und zäh dahin, und wo der Schatten eines gesunkenen Rumpfes auf dem Wasser lag, glomm es tief unter der Oberfläche grün, dort, wohin der Komet sein Gift bis auf den Grund getragen hatte. Jenseits des Stroms stand die Stadt als bloßer Umriss im Dunst — Türme ohne Dächer, zu weit für Einzelheiten.
 
-Es war noch früh im Jahr, und die Kälte lag beißend über der Stadt. Rauhreif überzog das geborstene Kopfsteinpflaster, der Atem der Krieger stand ihnen wie Rauch vor den Gesichtern, und vom Wasser wälzte sich ein Nebel heran, dick wie nasse Wolle — so dicht, dass ein Mann seinen Nebenmann auf Armeslänge aus den Augen verlieren konnte. Kein Laut regte sich außer dem stetigen Tropfen des Nebels, dem Klatschen des Flusses gegen faules Holz und, irgendwo hoch oben im Weiß, dem heiseren Ruf einer Krähe.
+Es war noch früh im Jahr, und die Kälte lag beißend über der Stadt. Rauhreif hielt sich nur noch dort, wohin kein Licht kam, an den Nordseiten der Lagerhäuser und unter den Stegen; überall sonst stand das Wasser in flachen Lachen zwischen den geborstenen Steinen und gab den Himmel zurück, ohne ihn heller zu machen. Der Atem der Krieger stand ihnen wie Rauch vor den Gesichtern, und vom Wasser wälzte sich ein Nebel heran, dick wie nasse Wolle — so dicht, dass ein Mann seinen Nebenmann auf Armeslänge aus den Augen verlieren konnte. Kein Laut regte sich außer dem stetigen Tropfen des Nebels und dem Klatschen des Flusses gegen faules Holz. Auf den Pollern am Rand des Kais saßen drei Möwen dicht beieinander und schrien nicht. Sie sahen die Männer kommen und blieben sitzen.
 
 ### Die Begegnung
 
