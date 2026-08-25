@@ -1,5 +1,6 @@
 ---
 ref: "prolog"
+kind: "prologue"
 title: "On Wings of Fire"
 chapter: "Prologue"
 ic_date: "1999–2000 IC"

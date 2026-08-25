@@ -1,5 +1,6 @@
 ---
 ref: "prolog"
+kind: "prologue"
 title: "Auf Flügeln aus Feuer"
 chapter: "Prolog"
 ic_date: "1999–2000 IC"

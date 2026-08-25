@@ -1,7 +1,7 @@
 ---
 ref: "interlude-2"
 kind: "interlude"
-title: "What Grows Back"
+title: "The Weeks Without a Sign"
 chapter: "Interlude"
 ic_date: "Spring 2000 IC"
 date: 2026-07-05

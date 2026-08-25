@@ -9,7 +9,7 @@ lang: de
 <ol class="toc">
   {% assign chapters = site.posts | where: "lang", "de" | sort: "date" %}
   {% for post in chapters %}
-  <li class="toc-item{% if post.kind == 'interlude' %} toc-item--interlude{% endif %}">
+  <li class="toc-item{% if post.kind %} toc-item--{{ post.kind }}{% endif %}">
     <a href="{{ post.url | relative_url }}">
       {% if post.chapter %}<span class="toc-eyebrow">{{ post.chapter }}</span>{% endif %}
       <span class="toc-title">{{ post.title }}</span>

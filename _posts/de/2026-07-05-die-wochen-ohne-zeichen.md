@@ -1,7 +1,7 @@
 ---
 ref: "interlude-2"
 kind: "interlude"
-title: "Was nachwächst"
+title: "Die Wochen ohne Zeichen"
 chapter: "Zwischenspiel"
 ic_date: "Frühjahr 2000 IC"
 date: 2026-07-05
