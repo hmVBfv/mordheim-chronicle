@@ -7,7 +7,7 @@ place: "A manor in the wealthy quarter, Mordheim"
 victor: "Rangvald's Reavers and the Children of Sotek split the bounty between them; the Ardent Caravan fled the manor with its heaviest losses yet."
 date: 2026-07-12
 image: "reichenviertel-anwesen.jpg"
-image_alt: "Kessler's manor at night in the rain, iron railings, uprooted trees, two dead carriage horses in the street"
+image_alt: "Kessler's manor at night in the rain, iron railings, uprooted trees, the cobbles torn open before the gate"
 image_caption: "Kessler's manor in the wealthy quarter"
 ---
 
@@ -23,7 +23,7 @@ For Rangvald's Reavers it was the prospect of another offering they could lay be
 
 Not all who had fought in the past battles were ready that day. Among the Children of Sotek, Wonton stayed behind — that Skink who had already gone down in the fog of Quayside and had carried ever since a wound upon his body that would not close. On the morning of the battle he sat, claws pressed to the cold pavement, and knew before all others: his flesh would not bear him today. He stayed where he was. Sir Honnung von Hoiser, meanwhile, still wrestled with the contaminated water he had swallowed in the library, and Packmaster Styrkarr Skysplitter was nursing his wounded arm — both would have to follow this battle from afar. But new faces filled the gaps: young hounds for the Chaos band, raw and not long under the whip, and for the caravan a second knight, Sir Olvir von der Krunkmark out of Nordland.
 
-By the time the three bands arrived, each on its own and each believing itself the first, the sky had long since closed over, and the mildness of late spring had turned into something that hung above the roofs and waited. Two carriage horses lay in their harness before the gate, on their sides, side by side, and behind them the coach no one had ever unhitched them from. They had not been brought down — nothing had touched them. They had pulled until they could pull no further, and that is all that remains of the night Balthasar Kessler left his house. Not long after, the weather broke, and it rained until morning.
+By the time the three bands arrived, each on its own and each believing itself the first, the sky had long since closed over, and the mildness of late spring had turned into something that hung above the roofs and waited. The street outside the railings had been torn open, as though something beneath it had stretched; the cobbles stood in slabs, and the first of the water was already gathering in the gaps. In the coach house behind the fountain stood the carriage no one had ever unhitched the horses from. What is left of two of them after two years and a pack have gone over them lay in the harness still, neatly side by side, the traces intact. They had not been brought down — they had pulled until they could pull no further, and that is all that remains of the night Balthasar Kessler left his house. It is also the reason something outlasted the winter in that house which would long since have moved on anywhere else. Not long after, the weather broke, and it rained until morning.
 
 ### The Hunt Begins
 
@@ -47,7 +47,7 @@ Further back the caravan's mercenaries dealt with the flanking wolves, while Mag
 
 Three Chaos warriors meanwhile stormed the caravan's trade-wagon, but their blows against wheels and solid timber proved as vain as Julius Broun's spell against their leader. In their frustration two of them turned upon the magister himself — who, however, like the wagon before him, not only came away unscathed but even brought one of his attackers to the ground with the man's own dagger.
 
-While all this unfolded, the lizards had long since all but completed their task. With the cool, implacable discipline that has no equal, Saurus and Skink had torn the wolf-pack apart piece by piece — no wild slaughter, but a hunt with the precision of ancient warriors who for thousands of years have known nothing but the fulfilment of a charge. At the heart of it stood **Blutvater Ootl**, the Totem Warrior, felling beasts without yielding a step, while the Great Crest Wantan, in the field that day without his brother, wheeled the Skinks about him in ever-tightening arcs. Where the caravan had tangled itself in panic and overzeal, the Children of Sotek drew their circles tighter, until the last wolf fell silent and nothing more could be heard but the panting of the Skinks and the soft click of their claws upon the pavement.
+While all this unfolded, the lizards had long since all but completed their task. With the cool, implacable discipline that has no equal, Saurus and Skink had torn the wolf-pack apart piece by piece — no wild slaughter, but a hunt with the precision of ancient warriors who for thousands of years have known nothing but the fulfilment of a charge. At the heart of it stood **Broodfather Qotl**, the Totem Warrior, felling beasts without yielding a step, while the Great Crest Wantan, in the field that day without his brother, wheeled the Skinks about him in ever-tightening arcs. Where the caravan had tangled itself in panic and overzeal, the Children of Sotek drew their circles tighter, until the last wolf fell silent and nothing more could be heard but the panting of the Skinks and the soft click of their claws upon the pavement.
 
 ### Blood-Money
 
