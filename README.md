@@ -4,32 +4,44 @@ A standalone, **bilingual (DE/EN)** Jekyll site for our Mordheim campaign
 chronicle, hosted on GitHub Pages as a project site — separate from the
 roster-builder repo, so the tool's code and history stay clean.
 
-Live once published:
-- German: `https://<your-user>.github.io/mordheim-chronicle/`
-- English: `https://<your-user>.github.io/mordheim-chronicle/en/`
+- German: `https://hmvbfv.github.io/mordheim-chronicle/`
+- English: `https://hmvbfv.github.io/mordheim-chronicle/en/`
 
-No plugins are used, so GitHub Pages builds it automatically (the "Deploy from
-a branch" setting). The DE/EN switch in the header always jumps to the matching
+No plugins are used, so GitHub Pages builds it automatically ("Deploy from a
+branch"). The DE/EN switch in the header always jumps to the matching
 translation of the page you are on.
 
 ---
 
-## One-time setup
+## What is in here
 
-1. Create a **new** empty repository named `mordheim-chronicle`. If you pick a
-   different name, change `baseurl` in `_config.yml` to `/<that-name>`.
-2. Push these files:
-   ```bash
-   git init
-   git add .
-   git commit -m "Chronicle: bilingual scaffold + prologue and first three battles"
-   git branch -M main
-   git remote add origin https://github.com/<your-user>/mordheim-chronicle.git
-   git push -u origin main
-   ```
-3. GitHub → **Settings → Pages → Deploy from a branch**, branch `main`, folder
-   `/ (root)`. Save.
-4. Wait ~1 minute, open the live URL.
+The chronicle runs in three kinds of post, distinguished by the `kind` field
+in the front matter:
+
+| `kind` | Shown in the index as | Image | `victor` |
+|---|---|---|---|
+| *(none)* — a battle chapter | Roman numeral, I onward | yes, one each | yes |
+| `prologue` | an ornament | no | no |
+| `interlude` | a small mark, indented and italic | no | no |
+
+Current contents, alternating chapter and interlude:
+
+```
+prolog            Auf Flügeln aus Feuer        On Wings of Fire
+battle-1     I    Das Urteil im Nebel          The Verdict in the Fog
+interlude-1       Der Nebel hebt sich          The Fog Lifts
+battle-2     II   Die verbrannten Seiten       The Burned Pages
+interlude-2       Die Wochen ohne Zeichen      The Weeks Without a Sign
+battle-3     III  Was der Juwelier bezahlte    What the Jeweller Paid
+pits-interlude    Was drei Käufer bieten       What Three Buyers Bid
+battle-4     IV   Was dreimal aufstand         What Rose Three Times
+```
+
+**Chapters** cover one battle. **Interludes** cover the weeks between two
+battles — the post-battle sequence told as prose: wounds, recruiting,
+purchases, exploration, and why each warband went where it went next. They sit
+only *between* battles, never before the first one. Aftermath stays inside the
+chapter (the morning after); the interlude carries the weeks after.
 
 ---
 
@@ -37,75 +49,139 @@ translation of the page you are on.
 
 ```
 _posts/
-  de/  2026-06-14-nebel-ueber-quayside.md      (lang: de, set automatically)
-  en/  2026-06-14-fog-over-quayside.md         (lang: en, set automatically)
+  de/  2026-06-14-das-urteil-im-nebel.md
+  en/  2026-06-14-the-verdict-in-the-fog.md
 index.html        -> German home  (/)
 en/index.html     -> English home (/en/)
+assets/img/       -> one 3:2 JPEG per battle chapter
+notes/            -> working notes, excluded from the build
 ```
 
-- A file's **language, layout and URL prefix come from its folder** (`_posts/de`
-  vs `_posts/en`) via `_config.yml` — you don't set them per post.
-- Each chapter carries a **`ref`** in its front matter (`prolog`, `battle-1`,
-  `battle-2`, `battle-3`). The two language versions of one chapter share the
-  same `ref`; that is how the DE/EN switch finds the counterpart. If a
-  translation is missing, the switch falls back to the other home page.
-- Previous/next navigation stays within one language.
+- A file's **language, layout and URL prefix come from its folder**
+  (`_posts/de` vs `_posts/en`) via `_config.yml` — not set per post.
+- Both language versions of one post share the same **`ref`**. That is how the
+  DE/EN switch finds the counterpart. If a translation is missing the switch
+  falls back to the other home page — so always add both.
+- `date` must match the date in the filename. It is only a sort key and is
+  never displayed; `ic_date` is the in-fiction date and is what readers see.
+- Previous/next navigation stays within one language and runs through chapters
+  and interludes alike.
 
-## Adding a new chapter (both languages)
+---
 
-Create two files with the **same `ref`**, one per folder:
+## Adding a new chapter
 
-`_posts/de/2026-08-01-<deutscher-titel>.md`
+Two files with the same `ref`, one per folder:
+
+`_posts/de/2026-09-05-<deutscher-titel>.md`
 ```yaml
 ---
-ref: "battle-4"
+ref: "battle-5"
 title: "Titel der Schlacht"
-chapter: "Vierte Schlacht"
-ic_date: "Sommer 2000 IC"
+chapter: "Fünfte Schlacht"
+ic_date: "Herbst 2000 IC"
 place: "Ort, Mordheim"
-victor: "Wer gewann"
-date: 2026-08-01
+victor: >-
+  Ein ganzer Satz darüber, was jede Seite gewonnen oder verloren hat.
+image: "dateiname.jpg"
+image_alt: "Was auf dem Bild zu sehen ist"
+image_caption: "Bildunterschrift"
+date: 2026-09-05
 ---
-Fließtext ...
+Fließtext …
 ```
 
-`_posts/en/2026-08-01-<english-title>.md`
-```yaml
----
-ref: "battle-4"
-title: "Title of the Battle"
-chapter: "Fourth Battle"
-ic_date: "Summer 2000 IC"
-place: "Place, Mordheim"
-victor: "Who won"
-date: 2026-08-01
----
-Prose ...
-```
+The English file is identical apart from `title`, `chapter`, `ic_date`,
+`place`, `victor` and the two image text fields — `image` points at the same
+file, so both languages show the same artwork.
 
-The `date` is the real date (controls order); `ic_date` is the in-fiction date.
-Use `### Scene heading` to break a battle into scenes. Commit and push — both
-homes, the switch and prev/next update automatically. You can publish one
-language first and add the translation later; the `ref` links them once both
-exist.
+Use `### Szenenüberschrift` to break a battle into scenes. Never use `#` or
+`##` in the body; the title comes from the front matter.
+
+## Adding an interlude
+
+As above, plus `kind: "interlude"`, and without `victor` and the image fields.
+Give it a `date` a few days before the chapter it leads into, so it sorts into
+the right gap.
+
+## Images
+
+One image per battle chapter, none for prologue or interludes. Put the file in
+`assets/img/` and name it after the location.
+
+- **3:2, 1600 × 1067, JPEG, under 400 KB.** The same ratio everywhere, or the
+  chronicle jumps as you page through it.
+- The image sits between the title block and the first paragraph and breaks out
+  of the reading column on desktop (52rem against the text's 38rem).
+- It shows the **setting and mood only, never the action**. The chapter text
+  should agree with what is visible: if the image has a crane on the quay, the
+  crane belongs in the prose.
+
+---
+
+## Writing conventions
+
+These are settled and should not drift:
+
+- **"Out of Action" in battle prose means leaving the fight, nothing more.**
+  Deaths and lasting injuries appear only in the Aftermath section.
+- **Every mechanical advance needs a narrative cause** anchored in that battle,
+  that opponent, that character. Go long rather than brief on these.
+- **No game terminology in the prose** — no Roster, Henchman, Charge,
+  Toughness, skill names. Translate it into narrative language or drop it.
+- **Chapter titles are evocative, not descriptive**, and watch for repetition:
+  four consecutive titles beginning "Was …" / "What …" read as laziness.
+- **The `victor` line is a full sentence** about what each side gained or lost,
+  not a bare warband name.
+- **The English layer is written, not translated.** No German sentence
+  patterns, no calques.
+- **Player input is raw outline only** and never lands verbatim in the prose.
+- **Nameless dead still get a death.** The lizardmen have no names a human
+  could speak, so they are given weight through what they did and how they
+  fell, not through biography.
+
+## Naming across the two languages
+
+Personal names keep their form, including the Empire's Germanic "von"
+(*Sir Honnung von Hoiser*). Epithets are translated: *Ulfrik der Pfähler* →
+*Ulfrik the Impaler*, *Brutvater Qotl* → *Broodfather Qotl*. Two warband names
+differ by language on purpose — *Die Silberne Karavane* / *The Ardent Caravan*,
+and *Kinder des Sotek* / *Children of Sotek*. *Rangvald's Reavers* keeps the
+apostrophe in both languages, since the whole name is English.
+
+In the German text keep **Wyrdstone** (masculine: *der* Wyrdstone),
+**Warband** and **Marauder** in English, but vary Warband with *Trupp*,
+*Banden* or a description (*Bande von Chaoskriegern*, *Horde Echsenmenschen*)
+where the referent is clear. Anything with a German Warhammer equivalent is
+translated: *Oger*, *Stammesfürst* / *Anführer* (never *Häuptling*). Skink,
+Saurus and Skaven stay as they are. Never write bare *die Kinder* in German —
+it reads as human children; use the full name or *Echsenmenschen*.
+
+The Chaos seer's god is Tchar, the Great Eagle — the northern-tribe name for
+Tzeentch.
+
+---
 
 ## Working notes (not published)
 
-`notes/campaign-notes.md` holds the single consolidated record behind the
-chronicle: roster data, unit descriptions, supplied rules text, canon spellings,
-regional origins and a per-battle log with post-battle results, keyed to the same
-`ref` values the chapters use (`battle-1`, `battle-2`, …). The folder is listed
-in `exclude:` in `_config.yml`, so Jekyll never builds it and it does not appear
-on GitHub Pages — it stays in the repo as source material in case the campaign
-data is ever reused for something other than prose.
+`notes/campaign-notes.md` is the consolidated record behind the chronicle:
+roster data, supplied rules text, canon spellings, regional origins and a
+per-battle log with post-battle results, keyed to the same `ref` values the
+posts use. The folder is in `exclude:` in `_config.yml`, so it never reaches
+GitHub Pages.
+
+**Write down who was hired after every session.** Anything not recorded there
+cannot be reconstructed later, and the chronicle then has to leave those
+sell-swords nameless.
 
 ## Update workflow with Claude
 
-Hand over the session notes; Claude writes the chapter as prose in the
-chronicle's voice and produces both the German and English file with a matching
-`ref`. Drop them into `_posts/de` and `_posts/en`, commit, push.
+Hand over the session notes as a raw outline. Claude writes the chapter as
+German literary prose, then rewrites it as native English prose, then the
+interlude covering the weeks that lead into it. Drop the files into
+`_posts/de` and `_posts/en`, commit, push.
 
-## Local preview (optional)
+## Local preview
 
 ```bash
 bundle install
@@ -117,14 +193,5 @@ bundle exec jekyll serve
 ## Theme
 
 `assets/css/style.css` holds the whole look; all colours are CSS variables at
-the top of that file.
-
-## Naming choices across the two languages
-
-Personal names keep their form, including the Empire's Germanic "von"
-(*Sir Honnung von Hoiser*). Two warband names differ by language on purpose:
-the caravan is *Die Silberne Karavane* (DE) / *The Ardent Caravan* (EN), and the
-Lizardmen band is *Kinder des Sotek* (DE) / *Children of Sotek* (EN). Epithets
-are translated (*Ulfrik der Pfähler* → *Ulfrik the Impaler*). The Chaos seer's
-god is named Tchar, the Great Eagle — the northern-tribe name for Tzeentch.
-Adjust to taste.
+the top of the file. Cinzel for display, EB Garamond for text, on a
+bone/charcoal palette with wyrdstone green as the single accent.
