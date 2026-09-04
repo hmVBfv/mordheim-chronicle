@@ -30,7 +30,6 @@ SCHREIBWEISEN = {
     r"\b(?:die|das) Wyrdstone\b": "der Wyrdstone (maskulin)",
     r"\b(?:die|das) Bleiche\b": "der Bleiche (maskulin)",
     r"\bH(?:ä|ae)uptling\w*": "Stammesfuerst oder Anfuehrer",
-    r"\bTzeentch\b": "Tchar (Name der Nordstaemme)",
 }
 
 # --- Begriffe, die nur in einer Sprachfassung vorkommen duerfen --------------

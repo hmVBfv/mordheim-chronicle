@@ -8,5 +8,3 @@ Henchman
 W6
 D6
 Crit
-OoA
-Out of Action
