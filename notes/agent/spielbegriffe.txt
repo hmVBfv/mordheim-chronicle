@@ -1,0 +1,17 @@
+Runde
+Wurf
+Probe
+Reichweite
+Initiative
+Out of Action
+Advance
+Crit
+Wound
+Charge
+Toughness
+Henchman
+Henchmen
+Hero
+Roster
+Warband-Rating
+W6
