@@ -104,7 +104,7 @@ def pruefe_kopf(pfad: Path, kopf: dict[str, str]) -> list[str]:
     art = kopf.get("kind", "")
 
     if art == "interlude":
-        for feld in ("victor", "image", "image_alt", "image_caption", "chapter"):
+        for feld in ("victor", "image", "image_alt", "image_caption"):
             if feld in kopf:
                 melde(f"Zwischenspiel hat '{feld}' — gehoert nur ins Schlachtkapitel")
 
@@ -139,8 +139,21 @@ def pruefe_rumpf(pfad: Path, rumpf: str, sprache: str,
     funde = []
     kurz = pfad.relative_to(WURZEL)
 
-    def melde(nr: int, zeile: str, was: str):
-        funde.append(f"{kurz}:{nr}: {was}\n    {zeile.strip()[:110]}")
+    def melde(nr: int, zeile: str, was: str, treffer: "re.Match | None" = None):
+        """Zeigt einen Ausschnitt um die Fundstelle, nicht immer den
+        Zeilenanfang — sonst ist bei langen Zeilen nie zu sehen, was
+        eigentlich getroffen hat."""
+        if treffer is not None:
+            mitte = treffer.start()
+            start = max(0, mitte - 40)
+            ende = min(len(zeile), mitte + 70)
+            ausschnitt = zeile[start:ende].strip()
+            praefix = "…" if start > 0 else ""
+            suffix = "…" if ende < len(zeile) else ""
+            ausschnitt = f"{praefix}{ausschnitt}{suffix}"
+        else:
+            ausschnitt = zeile.strip()[:110]
+        funde.append(f"{kurz}:{nr}: {was}\n    {ausschnitt}")
 
     fremd = NUR_ENGLISCH if sprache == "de" else NUR_DEUTSCH
 
@@ -149,28 +162,40 @@ def pruefe_rumpf(pfad: Path, rumpf: str, sprache: str,
             melde(nr, zeile, "nur '###' im Fliesstext, der Titel kommt aus dem Kopf")
 
         for begriff in begriffe:
-            if re.search(rf"\b{re.escape(begriff)}\b", zeile, re.IGNORECASE):
-                melde(nr, zeile, f"Spielbegriff in der Prosa: {begriff}")
+            treffer = re.search(rf"\b{re.escape(begriff)}\b", zeile, re.IGNORECASE)
+            if treffer:
+                melde(nr, zeile, f"Spielbegriff in der Prosa: {begriff}", treffer)
 
-        if "?" in zeile:
-            melde(nr, zeile, "Fragezeichen — rhetorische Frage? (pruefen)")
+        treffer = re.search(r"\?", zeile)
+        if treffer:
+            melde(nr, zeile, "Fragezeichen — rhetorische Frage? (pruefen)", treffer)
 
-        if re.search(r"\d", zeile):
-            melde(nr, zeile, "Ziffer — Ungefaehres statt Zahlenpraezision (pruefen)")
+        treffer = re.search(r"(?<!\d)\d{1,2}(?!\d)", zeile)
+        if treffer:
+            melde(nr, zeile, "Ziffer — Ungefaehres statt Zahlenpraezision (pruefen)",
+                  treffer)
+            # 3+ stellige Zahlen (Jahre wie 1999) sind bewusst ausgenommen:
+            # eine Kalenderangabe ist kein Fall fuer "ein halbes Dutzend".
 
         for muster, richtig in SCHREIBWEISEN.items():
-            if re.search(muster, zeile):
-                melde(nr, zeile, f"Schreibweise: erwartet {richtig}")
+            treffer = re.search(muster, zeile)
+            if treffer:
+                melde(nr, zeile, f"Schreibweise: erwartet {richtig}", treffer)
 
-        if sprache == "de" and re.search(r"\bdie Kinder\b(?!\s+des\s+Sotek)", zeile):
-            melde(nr, zeile, "bloss 'die Kinder' — liest sich als Menschenkinder")
+        treffer = re.search(r"\bdie Kinder\b(?!\s+des\s+Sotek)", zeile)
+        if sprache == "de" and treffer:
+            melde(nr, zeile, "bloss 'die Kinder' — liest sich als Menschenkinder",
+                  treffer)
 
         if "Kutte" in zeile and not KUTTE_OK.search(zeile):
-            melde(nr, zeile, "'Kutte' ausserhalb der festgelegten Wendung")
+            treffer = re.search("Kutte", zeile)
+            melde(nr, zeile, "'Kutte' ausserhalb der festgelegten Wendung", treffer)
 
         for begriff in fremd:
-            if begriff in zeile:
-                melde(nr, zeile, f"Begriff der anderen Sprachfassung: {begriff}")
+            treffer = re.search(re.escape(begriff), zeile)
+            if treffer:
+                melde(nr, zeile, f"Begriff der anderen Sprachfassung: {begriff}",
+                      treffer)
 
     return funde
 

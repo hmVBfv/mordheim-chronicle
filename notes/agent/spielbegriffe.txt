@@ -1,17 +1,12 @@
-Runde
 Wurf
+Wuerfe
 Probe
-Reichweite
-Initiative
-Out of Action
-Advance
-Crit
-Wound
-Charge
-Toughness
-Henchman
-Henchmen
-Hero
-Roster
+Proben
 Warband-Rating
+Henchmen
+Henchman
 W6
+D6
+Crit
+OoA
+Out of Action
