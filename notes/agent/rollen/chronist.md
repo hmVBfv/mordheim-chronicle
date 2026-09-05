@@ -8,3 +8,7 @@ Schreibe fort, nicht neu:
   aus dem Aftermath, im dort bereits verwendeten Format und unter demselben ref
 
 Aendere nichts unter _posts/.
+
+Verwende beim Zusammenfassen die Begriffe, die im Kapitel selbst stehen, statt
+eigene Synonyme einzufuehren. Ungewoehnliche oder altertuemliche Woerter nur
+verwenden, wenn du ihre Bedeutung sicher kennst.
