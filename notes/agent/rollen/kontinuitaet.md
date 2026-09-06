@@ -46,3 +46,8 @@ eine Bande ploetzlich aus einem Grund handelt, der im bisherigen Verlauf keine
 Grundlage hat, vermerke das als Rueckfrage.
 
 Aendere keine Datei ausser notes/arbeit/rueckfragen.md.
+
+Wenn du keinen echten Widerspruch und keine wesentliche Unklarheit findest,
+schreibe nach notes/arbeit/rueckfragen.md ausschliesslich den einen Satz:
+Keine Rueckfragen.
+Nichts sonst — kein Vorspann, keine Bestaetigung, kein "sieht gut aus".

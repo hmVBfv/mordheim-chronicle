@@ -3,6 +3,11 @@ Lies README.md (Abschnitte "Adding a new chapter", "Adding an interlude",
 notes/verbotsliste.md, notes/geografie.md, notes/lore.md, notes/wissensstand.md,
 notes/arbeit/notizen.md und notes/arbeit/rueckfragen.md.
 
+Falls notes/arbeit/antworten.md existiert: Das sind die Antworten des Spielers
+auf die Rueckfragen. Sie sind bindend und ersetzen jede eigene Vermutung zu
+dem jeweiligen Punkt. Nur was dort NICHT beantwortet wurde, bekommt weiterhin
+den Kommentar <!-- UNSICHER: kurze Begruendung -->.
+
 notes/geografie.md zeigt bereits etablierte Stadtviertel und ihre Lage.
 notes/lore.md liefert Hintergrundwissen zur groesseren Warhammer-Welt — als
 Farbe und Plausibilitaetscheck, nicht als Vorschrift ueber die eigene
@@ -28,8 +33,5 @@ Schreibe Zwischenspiel und Kapitel nach _posts/de/. Achte auf:
 Die Notizen sind Gedaechtnisstuetze, niemals Vorlage fuer Sprache, Reihenfolge oder
 Struktur. Komponiere die Szenen, arbeite sie nicht ab. Nicht jeder Schlagabtausch
 kommt vor.
-
-Wo du einer offenen Rueckfrage folgen musstest, setze einen Kommentar:
-<!-- UNSICHER: kurze Begruendung -->
 
 Schreibe nur nach _posts/de/.
