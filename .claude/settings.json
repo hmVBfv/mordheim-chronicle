@@ -1,3 +1,15 @@
 {
-  "outputStyle": "chronist"
+  "outputStyle": "chronist",
+  "hooks": {
+    "Stop": [
+      {
+        "hooks": [
+          {
+            "type": "command",
+            "command": "echo 'Aufgabe erledigt? Dann jetzt /clear eingeben, spart Tokens.'"
+          }
+        ]
+      }
+    ]
+  }
 }
